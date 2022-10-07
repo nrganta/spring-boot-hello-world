@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven
+FROM openjdk:8
 MAINTAINER tech-tejendra
 
 USER root
