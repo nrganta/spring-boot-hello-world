@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven:latest
+FROM  mcelep/che-java8-maven:lastet
 
 MAINTAINER tech-tejendra
 
