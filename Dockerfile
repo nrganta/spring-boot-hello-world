@@ -1,5 +1,4 @@
-FROM  mcelep/che-java8-maven:lastet
-
+FROM quay.io/eclipse/che-java8-maven
 MAINTAINER tech-tejendra
 
 USER root
