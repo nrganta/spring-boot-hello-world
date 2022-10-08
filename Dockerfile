@@ -1,4 +1,4 @@
-FROM quay.io/eclipse/che-java8-maven:nightly
+FROM maven:3.6.0-jdk-11-slim AS build
 
 MAINTAINER tech-tejendra
 
