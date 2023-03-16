@@ -1,6 +1,6 @@
 FROM maven:3.6.0-jdk-11-slim AS build
 
-MAINTAINER tech-tejendra
+MAINTAINER tech-nag
 
 USER root
 
